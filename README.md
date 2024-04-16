@@ -1,4 +1,3 @@
-# main
 name: generate animation
 
 on:
